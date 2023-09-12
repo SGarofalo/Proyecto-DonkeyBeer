@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Jumpman';
+    src: url('/fonts/Jumpman-1m20.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Press Start 2P';
+    src: url('/fonts/PressStart2P-vaV7.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
